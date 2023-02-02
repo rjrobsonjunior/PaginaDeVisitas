@@ -68,10 +68,8 @@ ul li a:hover{
 #social-links{
     display: flex;
     justify-content: center;
-    gap: 16px;
+    gap: 32px;
     padding: 24px 0px;
     font-size: 24px;
 }
-ion-icon {
-    font-size: 24px;
-  }
+
