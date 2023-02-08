@@ -16,3 +16,8 @@ function ToggleMode()
         img.setAttribute("src", "./assets/Avatar-Dark.png")
     }
 }
+
+function Alert()
+{
+    alert("Função indispónivel no momento")
+}
