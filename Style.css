@@ -8,7 +8,7 @@
     --text-color: white;
     --bg-url: url(./assets/bg_dark_mobile.jpg);
     --stroke-color: rgba(255, 255, 255, 0.5);
-    --surface-color:  rgba(255, 255, 255, 0.1);
+    --surface-color:  rgba(255, 255, 255, 0.05);
     --highlight-color:   rgba(255, 255, 255, 0.2);
     --swich-bg-url: url(./assets/moon_stars.svg);
     --switch-position: 0;
@@ -19,7 +19,7 @@
     --bg-url: url(./assets/bg_light_mobile.jpg);
     --stroke-color: rgba(0, 0, 0, 0.1);
     --surface-color:  rgba(0, 0, 0, 0.05);
-    --highlight-color:   rgba(0, 0, 0, 0.1);
+    --highlight-color:   rgba(0, 0, 0, 0.2);
     --swich-bg-url: url(./assets/sun.svg);
     --switch-position: 1;
 }
@@ -39,7 +39,7 @@ body * {
 /*container*/
 #container {
     width: 360px;
-    margin: 4px auto 0px;
+    margin: 56px auto 0px;
     padding: 0px 14px;
 }
 
@@ -95,6 +95,8 @@ ul{
     display: flex;
     flex-direction: column;
     gap: 16px;
+
+    padding: 24px;
 }
 ul li a{
     display: flex;
