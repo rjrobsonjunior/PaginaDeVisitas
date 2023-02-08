@@ -13,9 +13,9 @@ Página desenvolvida com o auxilio do programa DevLinks, promovido pela Rocketse
 
 <br>
 
-<p align="center" style="display:flex; gap: 10px">
-  <img alt="projeto DevLinks" src=".github/DarkMode.png" width="50%"> 
-  <img alt="projeto DevLinks" src=".github/LightMode.png" width="50%">
+<p align="center" style="display:flex; gap: 20px">
+  <img alt="projeto DevLinks" src=".github/DarkMode.png" width="40%"> 
+  <img alt="projeto DevLinks" src=".github/LightMode.png" width="40%">
 </p>
 
 ## 🚀 Tecnologias
